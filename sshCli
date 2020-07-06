@@ -1,0 +1,2 @@
+outpu=sshCli.send_command("show ip int brief")
+print("show ip int brief:\n{}\n".format(output))
